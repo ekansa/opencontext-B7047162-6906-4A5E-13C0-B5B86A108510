@@ -27,7 +27,7 @@
             <oc:relationLink localType="variable" localID="171A8DC8-DC6B-4F0C-A7D6-A2C3CFAAD2D7" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
               <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
               <oc:label>Has Biological Taxonomy</oc:label>
-              <oc:targetLink localType="property" localID="0073B6BC-FA57-4F97-D059-72F5149FE264" localURI="http://opencontext.org/properties/0073B6BC-FA57-4F97-D059-72F5149FE264" href="http://eol.org/pages/4445655">
+              <oc:targetLink localType="property" localID="0073B6BC-FA57-4F97-D059-72F5149FE264" localURI="http://opencontext.org/properties/0073B6BC-FA57-4F97-D059-72F5149FE264" href="http://eol.org/pages/4445650">
                 <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
                 <oc:label>Sus scrofa domesticus</oc:label>
               </oc:targetLink>
